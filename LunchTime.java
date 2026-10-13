@@ -34,6 +34,10 @@ public class LunchTime {
      */
     public LunchTime() {
         // TODO: Initialize all four instance variables.
+        numNugs = 10;
+        mysterySauce = 35.5;
+        enoughNugs = true;
+        entreeName = "Chicken";
     }
 
 
